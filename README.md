@@ -4,7 +4,7 @@ After this process, the obtained spawner carries the characteristics of a Vanill
 
 In summary, this plugin provides players with the ability to transform items they are holding into a spawner, allowing them to customize and use the functionality of a Vanilla Minecraft spawner.
 
-Hello Minecraft enthusiasts! This video brings you a detailed review of the latest and free ASpawner Plugin. This unique plugin is tailored for Minecraft versions 1.16.5-1.12, enhancing the management of your spawn mechanisms in the game.
+Hello Minecraft enthusiasts! This video brings you a detailed review of the latest and free ASpawner Plugin. This unique plugin is tailored for Minecraft versions 1.16.5-1.20, enhancing the management of your spawn mechanisms in the game.
 
 In the video, you'll walk through the step-by-step installation process of the ASpawner Plugin and explore its core features. I'll cover the advantages it offers, provide usage tips, and highlight key points to keep in mind.
 
