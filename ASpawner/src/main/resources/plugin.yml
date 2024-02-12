@@ -1,0 +1,6 @@
+name: ASpawner
+version: '${version}'
+main: com.bnjrKemal.ASpawner
+api-version: '1.16'
+commands:
+  aspawner:
